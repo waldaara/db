@@ -1,0 +1,7 @@
+email,phoneNumber,password,profileId|profileName-...,type
+david@aragundy.com,0941382137,12345,4dd93f63e0c0499cb5883a664b4a81c9|David-,basic
+severino_50@goodmail.com,0967788803,ilikelemons,aa214b8e5c3b4579b397ed2f7b177d96|Juan-,basic
+emievans5@goodmail.com,0982637481,ilikelemonstoo,063f77f3b1b74679981ac6edb9fec1dc|MissEmi-,standar
+freddselv00@goodmail.com,0937444491,idontlikelemons,617bab24d4284468bc44fd5259a17ed2|Frederick-,premium
+gabdejim@espol.edu.ec,0969198556,Cello,c2052a66a0e64109bcbd6a10704aac15|Gabs-,premium
+a,0,123,6e6052a1a4f94aecb16bb7d5a31bb54c|gabs-,premium
